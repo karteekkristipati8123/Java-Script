@@ -24,3 +24,14 @@ console.log(person["Weight"]);
 // Remove property
 delete person["Age"];
 console.log(person["Age"]);
+
+console.log("****************looping object*****************")
+
+for(let x in person)
+{
+    // console.log(x)
+    // console.log(person[x]);
+    console.log(x+" "+person[x])
+
+
+}
