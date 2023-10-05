@@ -1,28 +1,28 @@
 let cars = new Array("Mercidis-Benz","Toyota","Ford")
 
-//console.log(cars);
+console.log(cars);
 
-// console.log(cars[1]);
+console.log(cars[1]);
 
 cars[3]="Chevrlet";
-//console.log(cars.length);
+console.log(cars.length);
 //object in array
-//let person1={
-//            name:"John",
-//            age:55
-//}
-//let person2={
-//            name:"Abraham",
-//            age:54
-//}
-//let myarray=[person1,person2];
-//console.log(myarray);
+let person1={
+           name:"John",
+            age:55
+}
+let person2={
+            name:"Abraham",
+            age:54
+}
+let myarray=[person1,person2];
+console.log(myarray);
 
 // for loop
 
-//for(i=0;i<cars.length-1;i++){
-//    console.log(cars[i])
-//}
+for(i=0;i<cars.length-1;i++){
+    console.log(cars[i])
+}
 
 // for of loop
 
