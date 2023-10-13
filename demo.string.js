@@ -36,11 +36,13 @@ console.log(str7.localeCompare(str8));
 }
 comparestring();
 
+// String slice and replace
 let x = 'Karthik Reddy'
 
 console.log(x.slice(0,4));
 
 console.log(x.replace("hi","ee"));
 
+// LowerCase 
 let y = 'KARTHIK'
 console.log(y.toLowerCase());
