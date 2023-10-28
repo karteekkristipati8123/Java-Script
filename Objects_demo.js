@@ -12,7 +12,7 @@ console.log(person["firstname"]);
 console.log(person.Weight);
 
 
-// Add new prperty to the existing object
+// Add new property to the existing object
 
 person["height"]=5.8;
 console.log(person["height"]);
