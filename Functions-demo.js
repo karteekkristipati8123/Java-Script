@@ -6,6 +6,7 @@ function add(a,b)
 }
 add(10,20);
 
+
 // Example 2
 function addition(i,j)
 {
@@ -14,6 +15,8 @@ function addition(i,j)
  let res=addition(200,800);
  console.log(res);
 
+ 
+ // Example 3
  function greeting()
  {
     console.log("Hey Good Morning....")
@@ -21,6 +24,8 @@ function addition(i,j)
 
  greeting();
 
+ 
+ 
  // Example 4
 
  function greet()
